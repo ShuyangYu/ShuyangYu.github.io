@@ -1,5 +1,4 @@
 ---
-  \
 layout:     post
 title:      Highly-Accurate Machine Fault Diagnosis Using Deep Transfer Learning
 subtitle:   论文笔记
